@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## icon attributions
+<a href="https://www.flaticon.com/free-icons/menu" title="menu icons">Menu icons created by ariefstudio - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons created by srip - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/clock" title="clock icons">Clock icons created by C-mo Box - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/dataset" title="dataset icons">Dataset icons created by Flat Icons Design - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/repository" title="repository icons">Repository icons created by Reion - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/infographic" title="infographic icons">Infographic icons created by srip - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/insight" title="insight icons">Insight icons created by Parzival’ 1997 - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/contact" title="contact icons">Contact icons created by Icongeek26 - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/subscription" title="subscription icons">Subscription icons created by Danteee82 - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/sign-in" title="sign in icons">Sign in icons created by DinosoftLabs - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Those Icons - Flaticon</a>
