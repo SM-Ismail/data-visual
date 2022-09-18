@@ -2,7 +2,6 @@
     background-color: #5e17eb;
     width: 100%;
     margin: 0;
-    /* border-bottom: 1px solid #cbc3e3b3; */
     position: fixed;
     top: 0;
     z-index: 1;
@@ -11,11 +10,8 @@
     list-style: none;
     display: flex;
     gap: 2vw;
-    /* justify-content: center; */
-    /* background-color: red; */
 }
 .container > nav {
-    
     margin-right: 2vw;
 }
 .container > nav > ul > li > a{
@@ -25,38 +21,22 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .container > nav > ul > li:last-child > a {
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 .container > nav > ul > li{
-    /* padding-top: 0.2em;  */
-    /* width: 5%; */
-    /* align-content: center; */
-    /* border: 1px solid red; */
-    /* text-align: center; */
     align-self: center;
 }
-/* .container > nav > ul > li:nth-child(2), 
-.container > nav > ul > li:nth-child(3), 
-.container > nav > ul > li:nth-child(4), 
-.container > nav > ul > li:nth-child(5){
-    
-    padding: 1em 0;
-} */
 .container > nav > ul > li:nth-of-type(2){
-    /* background-color: #cbc3e33f; */
     margin-left: 5em;
 }
 .container > nav > ul > li:nth-of-type(5){
-    /* background-color: #cbc3e33f; */
     margin-right: auto;
 }
 .container > nav > ul > li:nth-child(6){
     background-color: #cbc3e33f;
     border: 1px solid #cbc3e3b3;
-    padding: 1.2vh 1.5vw;
+    padding: 1vh 1.5vw 1.5vh 1.5vw;
     margin-left: auto;
-    
-    /* align-self: center; */
     border-radius: 2px;
     transition: background-color 0.2s linear;
 }
@@ -64,38 +44,18 @@
     background-color:rgba(119, 119, 119, 0.233);
     cursor: pointer;
 }
-.container > nav > ul > li:nth-child(6) {
-   /*  */
-   
-}
+
 .container > nav > ul > li:nth-child(6) > img{
     height: 1.4rem;
     width: auto;
     margin-right: 0.5rem;
 }
-/* .container > nav > ul > li:nth-child(6) > a{
-  margin-bottom: 2rem;
-  font-size: 1rem;
-} */
+
 .container > nav > ul > li:nth-child(1) > img{
     height: 100%;
     width: 100%;
-    /* margin-right: 0.5rem; */
-}
+ }
 .container > nav > ul > li:nth-child(1) {
     height: auto;
     width: 4%;
-    /* margin-right: 0.5rem; */
 }
-/* .container > nav > ul > li:nth-of-type(7){
-    margin-right: auto;
-    background-color: #cbc3e33f;
-    border: 1px solid #cbc3e3b3;
-    padding: 1rem 3rem;
-    border-radius: 2px;
-    transition: background-color 0.2s linear;
-}
-.container > nav > ul > li:nth-of-type(7):hover{
-   background-color: #cbc3e3b3;
-   cursor: pointer;
-} */
