@@ -24,6 +24,13 @@ const Body = (props) => {
                 </div>
             </div>
             <div>
+                <iframe title="dashboard - Net Sales" width="100%" height="836" 
+                    src="https://app.powerbi.com/view?r=eyJrIjoiMTQ2YTMzNjktMDYzMy00ZDk0LWJlOTMtZTc5
+                    ZDMzNzU3YjgwIiwidCI6Ijk2YjI4ZDUwLTIwNTAtNGExYi05NGI2LTAxZTFmYTZiYWUzNCIsImMiOjEwfQ%3D%3D" 
+                    frameborder="0" allowFullScreen="true">
+                </iframe>
+            </div>
+            <div>
                 <div>
                     <p>div 1</p>
                     <iframe width="100%" height="582rem" src="https://www.youtube.com/embed/mq8LYj6kRyE" 

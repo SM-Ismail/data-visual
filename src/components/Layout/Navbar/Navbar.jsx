@@ -15,7 +15,11 @@ const Navbar = () => {
                     <li><a href="/">Comment</a></li>
                     <li>
                         <img src={subscribe} alt="" />
-                        <a href="/">Subscibe</a>
+                        <a href="/">Subscribe</a>
+                        {/* <button>
+                            <img src={subscribe} alt="" />
+                            <a href="/">Subscribe</a>
+                        </button> */}
                     </li>
                 </ul>
            </nav>
